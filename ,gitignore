@@ -33,6 +33,7 @@ build/
 .gradletasknamecache
 gradle-app.setting
 !gradle-wrapper.jar
+gradle/
 
 ##############################
 ## IntelliJ
@@ -81,4 +82,5 @@ nb-configuration.xml
 ##############################
 ## OS X
 ##############################
-.DS_Store
+.DS_Store'
+
