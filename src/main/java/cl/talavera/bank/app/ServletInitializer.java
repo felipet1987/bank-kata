@@ -1,5 +1,6 @@
-package cl.talavera.bank;
+package cl.talavera.bank.app;
 
+import cl.talavera.bank.app.App;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 

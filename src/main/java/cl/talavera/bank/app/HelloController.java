@@ -1,6 +1,5 @@
-package cl.talavera.bank.controller;
+package cl.talavera.bank.app;
 
-import cl.talavera.bank.usecase.Sender;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 

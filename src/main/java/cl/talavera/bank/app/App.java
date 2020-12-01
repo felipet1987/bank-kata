@@ -1,4 +1,4 @@
-package cl.talavera.bank;
+package cl.talavera.bank.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
